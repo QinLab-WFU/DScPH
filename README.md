@@ -43,4 +43,9 @@ After the dataset has been prepared, we could run the follow command to train.
   author={Q. Qin, L. Wu, W. Zhang, L. Huang and J. Nie},  
   journal={IEEE Transactions on Multimedia},  
   title={Deep Semantic-consistent Penalizing Hashing for Cross-modal Retrieval},  
+  year={2025}, 
   doi={10.1109/TMM.2025.3535306.}}
+
+## Acknowledgements
+[CPF](https://www.sciencedirect.com/science/article/abs/pii/S095741742301789X)  
+[DCHMT](https://github.com/kalenforn/DCHMT)
